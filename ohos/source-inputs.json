@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "repository": "https://github.com/ajalt/colormath",
+    "tag": "3.6.1",
+    "commit": "5e776b66ea6ffc5dc5dc360ab88ca5aefbd2a310"
+  },
+  "sourceRoot": "../colormath/src/commonMain/kotlin",
+  "sourceMembers": [
+    {
+      "member": "commonMain/com/github/ajalt/colormath/calculate/Contrast.kt",
+      "size": 2875,
+      "sha256": "5bf3ece7b7f6f7203187e572e5df52f3728d38d6cf6ea41494f9ad5f00dfb624"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/calculate/Difference.kt",
+      "size": 6193,
+      "sha256": "a175cfb1e7deab9efa629138c62092ad0aecfc8735fc254b8d5e5830f51f24fd"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/calculate/Gamut.kt",
+      "size": 302,
+      "sha256": "53dfcea1321f3f60a8f217b05f216010044a02399fc05225a7354728a70e8a3c"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/Color.kt",
+      "size": 3664,
+      "sha256": "215d2bf0bb3b8c0a1ae6ba58c7c9848a30025f20684afa76d1c67b5f3d81ac57"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/ColorSpace.kt",
+      "size": 2098,
+      "sha256": "3712f8e4ac404b1e57fda7abcd524bc24de5641f1b061bf2804961a956d3ff8c"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/CssParse.kt",
+      "size": 8207,
+      "sha256": "4801523496f4b5fa69a61dc99163db6fafb53e19917906e8b73ababe0cc6341a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/CssRender.kt",
+      "size": 12339,
+      "sha256": "cef9d2a30b0bf486a0441965cd714378da62e253538b2b34f768e602af327289"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/HueColor.kt",
+      "size": 866,
+      "sha256": "0f100a4746c7abeb07eae432fcad6f4d4316ae76df255e77477532095c1c180b"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/internal/ColorSpaceUtils.kt",
+      "size": 4186,
+      "sha256": "f0c2b43e9c9a098e356bc6255038604acc1cbc0aeabb1a25275121d2c20ab295"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/internal/Constants.kt",
+      "size": 641,
+      "sha256": "9c680e2f710c53f4f6eaf21d625acc8be64dda53e5388e086bfe717f84d8056c"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/internal/CssColors.kt",
+      "size": 7756,
+      "sha256": "b0226f48f8ed498df8f7ac3762da9bb28cf010a77689e115053264d28fffdc58"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/internal/InternalMath.kt",
+      "size": 2422,
+      "sha256": "549b4ce64c1634a1714d68b0a2f07275b7b8c435b465b4f235eaf75b02c3f75a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/internal/Matrix.kt",
+      "size": 3853,
+      "sha256": "1861a86efc8ae101aaef3586da42c80d0c721fe5fcd1bcac35d59fd07da73377"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/Ansi16.kt",
+      "size": 2887,
+      "sha256": "d661b48ebd214d8ee0dcc0ff13c263fc4b595920641db2f2067d865f984638fa"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/Ansi256.kt",
+      "size": 2357,
+      "sha256": "21217e478f66ec24ade425e463c994efd359a19852516bf5e95f32720db9fae1"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/CMYK.kt",
+      "size": 2536,
+      "sha256": "f683a659dd82f5f770ec3880ed86e060fdcb7eceee6601b2f2ceb55c5321409a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/HPLuv.kt",
+      "size": 2356,
+      "sha256": "e2031abf03a7ffc15f2e154571f340274152d05532526170f0dd70de2d2c4881"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/HSL.kt",
+      "size": 2581,
+      "sha256": "ae955ed71fa39192dabe9b7cc1426a6750c0a7c7888cef8442d2de4bbdbd57e1"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/HSLuv.kt",
+      "size": 3917,
+      "sha256": "0ecdc636e420c081709b9500af2e9ac17560670f51c2b3eb2f13168cb2f0d7b8"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/HSV.kt",
+      "size": 2573,
+      "sha256": "06cc5320e7a608284d95dec4dff3d564e9db7e72f9c6a06e8843bc605378143f"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/HWB.kt",
+      "size": 2987,
+      "sha256": "1f7616746acf76b8cbada388ed568445d852cba0740b8bcd00a4f133a6644914"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/ICtCp.kt",
+      "size": 5354,
+      "sha256": "dca35a73e0b24b5bec2759d07e6937baa4f37318972039807d2db85a1071f464"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/JzAzBz.kt",
+      "size": 3543,
+      "sha256": "f96381f8d5e64bb11274564ed912bc728e8007399fb5c77b5727d9e9ea32d6f0"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/JzCzHz.kt",
+      "size": 2383,
+      "sha256": "130dd4c9b4b114ef749040d2430bb7f73bb43b6bdd10daabae38c4c01fa26482"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/LAB.kt",
+      "size": 4142,
+      "sha256": "228b7e1ac68018db0561a788d55ba7798973fd30ae87e444b75377e9fa5ffab1"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/LCHab.kt",
+      "size": 3474,
+      "sha256": "f45be6ccdfab5ed822fb30061897227fcc529e3d413ed9f02cf3d52e9d1794fd"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/LCHuv.kt",
+      "size": 3931,
+      "sha256": "8ccc012ea709c73eb33314e1ebe55763a0432dbeb3d6db86e7272d48764d5da5"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/LUV.kt",
+      "size": 4127,
+      "sha256": "1910dcd75c579043eead63a8e5008586660da15c02e51ea7d303a8cfd721af8e"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/Oklab.kt",
+      "size": 3379,
+      "sha256": "7bea8770e3a666e6961eb0d04640ff101f3bea4301447bbdfd6fc79c79ac6795"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/Oklch.kt",
+      "size": 2184,
+      "sha256": "cdd5aac000e49ae96585080d21e71e53725aac40cd4a225c6bf04d1eab5547b3"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/RGB.kt",
+      "size": 12621,
+      "sha256": "cad14ef08b027df01d3546e8c9a676d4e7a8485f726690d01a77fcef8c48c108"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/RGBColorSpaces.kt",
+      "size": 13426,
+      "sha256": "351bbfc5f706623fc25b351ddf97f4d4a642effdbea31523dd646b3cbb6bd699"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/RGBInt.kt",
+      "size": 4915,
+      "sha256": "03faffea1bddef6769f3c644abeb23411ecab22700096b69fba9ad699a56726a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/xyY.kt",
+      "size": 730,
+      "sha256": "80d7f08f0b337f37e3c57823eb5f9a777193a963233f9257527d5f09ab8189c0"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/model/XYZ.kt",
+      "size": 9017,
+      "sha256": "ed0e307f41ffa5eea573c9547978661e7336ab82f15eabba96e4909b4b649ae3"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/ChromaticAdapter.kt",
+      "size": 3084,
+      "sha256": "6fa9fc61a2fae0b3b29048b098c6b0462630c5ffeabb175ff52c08cc50c10e82"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/EasingFunctions.kt",
+      "size": 6348,
+      "sha256": "e32b638515320a6f8cd7b072269fe63eaaf34efead51fad7adf224364c02675a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/HueAdjustments.kt",
+      "size": 1547,
+      "sha256": "01656bdeb84d55d764dacba7fd1b8a92baca013bc7c308ccef46232bdf27cd76"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/Interpolate.kt",
+      "size": 14067,
+      "sha256": "c02ed1227ce7d933d417c5fdda0f2aa2785144d10d8d29785ea47b9bad3abda7"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/InterpolationMethod.kt",
+      "size": 5575,
+      "sha256": "3875c06098346f1707c952d7a5c2b77e9a5e0dcbb27b5dc1286ae4b0aee4ba83"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/Mix.kt",
+      "size": 2192,
+      "sha256": "3177e948f25ef8a88988f34ae0d5f6d6079bd85610eaf93159e047e620828d6a"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/Premultiply.kt",
+      "size": 1434,
+      "sha256": "751bb3c8c8d2b48ddf95b8a2606106c09155e615d016b2ec5e94a7904d83f155"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/RGBToRGBConverter.kt",
+      "size": 1944,
+      "sha256": "a9a22683a287222d4c14fb916e2a743e66899e5bd5d5f76a4f1e452a391bda7c"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/transform/Transform.kt",
+      "size": 847,
+      "sha256": "98a2b18f066c3788b3090c8647f3160b96028d120e8cbeb9597dcc49ac137a72"
+    },
+    {
+      "member": "commonMain/com/github/ajalt/colormath/WhitePoint.kt",
+      "size": 1600,
+      "sha256": "3bf62e015de9408e32207bbabbfe3e24f0f9c69b34bdf62fa1b72416abef355d"
+    }
+  ],
+  "sourceSetSha256": "326ac3d2f056822251f9f84098a0f122ae23f34c4cb43fa92580ebc10fd36bd3",
+  "sources": {
+    "path": "vendor/colormath-3.6.1-sources.jar",
+    "size": 68192,
+    "sha256": "ab56174bf87e2640a8f8e7ac479886888c8953bd6c2a75a8183d0e3bf412e3b9",
+    "url": "https://repo.maven.apache.org/maven2/com/github/ajalt/colormath/colormath/3.6.1/colormath-3.6.1-sources.jar"
+  },
+  "pom": {
+    "path": "vendor/colormath-3.6.1.pom",
+    "size": 1753,
+    "sha256": "b8161dc2e0eb18d3d79bc9281ed17103721cc1c12f158a3543275ba92970fe38",
+    "url": "https://repo.maven.apache.org/maven2/com/github/ajalt/colormath/colormath/3.6.1/colormath-3.6.1.pom"
+  },
+  "module": {
+    "path": "vendor/colormath-3.6.1.module",
+    "size": 34947,
+    "sha256": "c40d05d5d4cd92c736ab10d5911e878e3b08a8145aefa9a3cb6d3f5543ccf017",
+    "url": "https://repo.maven.apache.org/maven2/com/github/ajalt/colormath/colormath/3.6.1/colormath-3.6.1.module"
+  },
+  "license": {
+    "path": "legal/LICENSE",
+    "size": 1046,
+    "sha256": "ab1cd8a3d0e92e1f69e95e8ca839127c52d4bd32fa2824d683d0dc66cc8fe21f",
+    "url": "https://raw.githubusercontent.com/ajalt/colormath/3.6.1/LICENSE"
+  },
+  "origin": "Sources and module match the fixed application commit fe48ee6140d9224adf56b4b09efcfdc468ae8aa0; the POM is from Maven Central."
+}

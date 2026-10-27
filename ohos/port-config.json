@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "kotlin": "2.4.20-0.1.0-08",
+  "gradle": "9.5.0",
+  "java": "17",
+  "metadataPolicy": "SAME_VERSION_PUBLIC_METADATA_CLI",
+  "sourceCount": 45,
+  "group": "io.github.qsxs.cpf.colormath",
+  "artifact": "colormath",
+  "versionBase": "3.6.1",
+  "license": "MIT",
+  "stdlib": "2.4.20-0.1.0-08",
+  "gradleDistributionSha256": "553c78f50dafcd54d65b9a444649057857469edf836431389695608536d6b746"
+}
